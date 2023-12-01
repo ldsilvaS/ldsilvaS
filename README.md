@@ -1,6 +1,6 @@
 ### Hi, my name is Lucas ✌🏼
 
-- Academin in Systems analysis and development 📚
+- Academic in Systems analysis and development 📚
 - Support at Ministério Público do Rio Grade Do Sul 🏤
 - Front-End Developer 💻
 
