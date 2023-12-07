@@ -1,7 +1,7 @@
 ### Hi, my name is Lucas ✌🏼
 
 - Academic in Systems analysis and development 📚
-- Support at Ministério Público do Rio Grade Do Sul 🏤
+- IT Support at Ministério Público do Rio Grade Do Sul 🏤
 - Front-End Developer 💻
 
  ![ldsilvaS GitHub stats](https://github-readme-stats.vercel.app/api?username=ldsilvaS&show_icons=true&theme=dracula) 
